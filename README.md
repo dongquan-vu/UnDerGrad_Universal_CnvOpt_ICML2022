@@ -1,4 +1,3 @@
-<center> <h1> Numerical Experiments for  </h1> </center>
 <center> <h1> UNDERGRAD: A Universal Black-Box Optimization Method with Almost Dimension-Free Convergence Rate Guarantees</h1> </center>
 
 
